@@ -3,7 +3,7 @@
 Instagram promotion and SMM scripts. Written in Python.
 
 ---
-### [Read the Docs](https://instagrambot.github.io/docs/) | [Contribute](https://github.com/instagrambot/docs/blob/master/CONTRIBUTING.md)
+### [Read the Docs](https://instagrambot.github.io/docs/)
 ---
 
 [![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/instabotproject)
