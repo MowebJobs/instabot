@@ -18,8 +18,4 @@ Install `instabot` with:
 ```
 pip install -U instabot
 ```
-#### or see [this](https://instagrambot.github.io/docs/en/#installation) for more details.
-
-
-
 ![Instabot is better than other open-source bots!](https://github.com/instagrambot/docs/blob/master/img/instabot_3_bots.png "Instabot is better than other open-source bots!")
