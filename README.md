@@ -1,7 +1,6 @@
 # Instabot
 
-Instagram promotion and SMM scripts.
-Forever free. Written in Python.
+Instagram promotion and SMM scripts. Written in Python.
 
 ---
 ### [Read the Docs](https://instagrambot.github.io/docs/) | [Contribute](https://github.com/instagrambot/docs/blob/master/CONTRIBUTING.md)
